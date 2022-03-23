@@ -18,7 +18,7 @@ import (
 )
 
 var URL_PRESENCE_TEAMS = "https://presence.teams.microsoft.com/v1/presence/getpresence/"
-var URL_TEAMS = "https://teams.microsoft.com/api/mt/emea/beta/users/%s/externalsearchv3"
+var URL_TEAMS = "https://teams.microsoft.com/api/mt/part/amer-03/beta/users/searchv2"
 var CLIENT_VERSION = "27/1.0.0.2021011237"
 
 // Enumuser request the Teams API to retrieve information about the email
